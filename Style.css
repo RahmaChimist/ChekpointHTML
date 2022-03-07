@@ -1,0 +1,77 @@
+.l1{
+    display: flex ;
+    justify-content: space-evenly;
+    list-style-type: none;
+    font-size: 30px;
+    background-color: salmon;
+    margin: 40px;
+    border: 20px;
+    padding: 50px;
+}
+#Text{
+    text-align: center;
+    color: indigo;
+    text-decoration-style: solid;
+    font-size: 50px; ;
+}
+#Home{
+    border: 3px solid blueviolet;
+    padding: 40px;
+    height: 200px;
+max-width: 600px;
+justify-content: center;
+text-align: center;
+}
+.Image{
+    float: right;
+    background: gray; 
+  width: 150px;
+  color: white;
+  padding: 3px;
+  border-radius: 5px;
+  border: 3px solid black;
+}
+#About{
+font-style: italic;
+color: blueviolet;
+font-size: 30px;
+text-align: center;
+}
+.P1{
+    font-style: normal;
+color: black;
+font-size: 20px;
+text-align: left;
+}
+.P2{
+    font-style: normal;
+color: black;
+font-size: 20px;
+text-align: left;
+}
+ol{
+    font-style: normal;
+    color: black;
+    font-size: 20px;
+    text-align: left; 
+}
+
+.l2{
+    font-style: normal;
+    color: black;
+    font-size: 20px;
+    text-align: left;
+}
+#Work{
+    font-style: italic;
+    color: blueviolet;
+    font-size: 30px;
+    text-align: center;}
+#Contact{
+        font-style: italic;
+        color: blueviolet;
+        font-size: 30px;
+        text-align: center;}
+        .box {
+            display: flex;
+          }
